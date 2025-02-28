@@ -1,0 +1,11 @@
+#  Ignore  '.bone' all files
+
+*.bone
+
+#  Ignore  all files with  '.codenet'
+
+*.codenet
+
+#  Igonore  '.mainnet' all files
+
+*.mainnet
